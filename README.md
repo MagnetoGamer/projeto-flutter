@@ -121,6 +121,7 @@ lib/
 ├── pages/             # Páginas da aplicação
 ├── routes/            # Configuração de rotas
 └── main.dart          # Ponto de entrada da aplicação
+```
 
 ## 👥 Contribuidores
 
